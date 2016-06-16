@@ -1,0 +1,5 @@
+# Mjolnir
+
+Obtener palabras clave de un handle de twitter nunca fue tan fácil. ¿O si?
+
+Nota que necesitas declarar variables de entorno con tus tokens y secrets, puedes obtenerlo en la sección correspondiente en https://dev.twitter.com/
